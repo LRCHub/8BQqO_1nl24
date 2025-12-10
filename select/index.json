@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ザムザ",
+  "base_artist": "teniwoha",
+  "createdAt": "2025-12-10T09:51:26.544191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザムザ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ザムザ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ザムザ",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO",
+      "has_synced": true,
+      "path": "select/02_ザムザ_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ザムザ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_ザムザ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ザムザ",
+      "artist": "teniwoha",
+      "has_synced": true,
+      "path": "select/04_ザムザ_teniwoha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ザムザ",
+      "artist": "てにをは",
+      "has_synced": true,
+      "path": "select/05_ザムザ_てにをは.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "samsa - english ver.【amiaryllis】(ザムザ)",
+      "artist": "amiaryllis",
+      "has_synced": true,
+      "path": "select/06_samsa_-_english_ver.【amiaryllis】(ザムザ)_amiaryllis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ザムザ (feat. 宵崎奏",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/07_ザムザ_(feat._宵崎奏_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ザムザ - Samsa",
+      "artist": "teniwoha",
+      "has_synced": true,
+      "path": "select/08_ザムザ_-_Samsa_teniwoha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ザムザ -instrumental-",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/09_ザムザ_-instrumental-_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ザムザ (Samsa)",
+      "artist": "てにをは",
+      "has_synced": true,
+      "path": "select/10_ザムザ_(Samsa)_てにをは.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ザムザ",
+      "artist": "Teniwoha",
+      "has_synced": false,
+      "path": "select/pl_01_ザムザ_Teniwoha.txt"
+    }
+  ]
+}
